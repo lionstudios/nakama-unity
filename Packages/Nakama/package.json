@@ -1,5 +1,5 @@
 {
-    "name": "com.heroiclabs.nakama-unity",
+    "name": "com.lionstudios.pre-release.heroiclabs.nakama-unity",
     "version": "3.8.0",
     "unity": "2018.4",
     "displayName": "Nakama Unity",
@@ -13,9 +13,7 @@
         "realtime chat"
     ],
     "author": {
-        "name": "Heroic Labs",
-        "email": "chris@heroiclabs.com",
-        "url": "https://www.heroiclabs.com"
+        "name": "Lion Studios - Third Party SDKs"
     },
     "dependencies": {
         "com.unity.modules.unitywebrequest": "1.0.0"
