@@ -1,5 +1,5 @@
 {
-    "name": "com.lionstudios.pre-release.heroiclabs.nakama-unity",
+    "name": "com.lionstudios.release.heroiclabs.nakama-unity",
     "version": "3.9.0",
     "unity": "2018.4",
     "displayName": "Nakama Unity",
