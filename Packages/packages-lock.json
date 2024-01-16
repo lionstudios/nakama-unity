@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.heroiclabs.nakama-unity": {
+    "com.lionstudios.release.heroiclabs.nakama-unity": {
       "version": "file:Nakama",
       "depth": 0,
       "source": "embedded",
